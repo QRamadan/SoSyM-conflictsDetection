@@ -23,7 +23,7 @@ To view and analyze our designed models please follow the instructions:
 
 * To view and modify the models in this file you need to import it into the STS:
  * In the STS tool, do *File→ Import → project → next → select the "telemedicine.exp" file from your desktop*. 
- * The projects contains two SecBPMN2 models namely, "PaperModel.bpmnl" and Full_Annotated_Model.bpmnl". 
+ * The projects contains two SecBPMN2 models namely, "SoSyM19-PaperExample.bpmnl" and Full_annotatedModel.bpmnl". 
  * The project contains a catalog of domain-independent anti-patterns.
  * To run a conflict analysis open the SecBPMN2 model you want to analyse from the following directory: */SoSym19-telemedicine/Models/SecBPMN2/Business process/*
  * In the STS tool, do *Analysis→ Check Security Policy*. 
