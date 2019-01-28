@@ -1,4 +1,4 @@
-# A Semi-Automated BPMN-based Framework For Detecting Conflicts between Security, Data-minimization and Fairness Requirements
+# A Semi-Automated BPMN-based Framework for Detecting Conflicts between Security, Data-minimization and Fairness Requirements
 Qusai Ramadan, Daniel Strüber, Mattia Salnitri, Jan Jürjens, Volker Riediger, Steffen Staab
 
 In this file, we present the artifact used in our paper. Our submission includes
