@@ -15,6 +15,8 @@ based on our catalog of anti-patterns.
 
 * **Artifact: a healthcare case study and a catalog of domain-independent anti-patterns:** https://figshare.com/s/a9917ca83c1a07b88d56
 * **Artifact: Mirrors of the STS-tool current versions:** http://www.sts-tool.eu/downloads/secbpmn-dm/
+* **The Experimantl Evaluation Artifacts: for a tranceperency issue we share all our experimental materials:** https://figshare.com/s/29c1deea98af68882c78
+
 
 ## Performing automatic conflicts detection. 
 To view and analyze our designed models please follow the instructions:
